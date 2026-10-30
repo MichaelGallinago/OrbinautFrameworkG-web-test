@@ -1,7 +1,7 @@
 export const config = /*json-start*/{
   "mainAssemblyName": "OrbinautFrameworkG.web.dll",
   "resources": {
-    "hash": "sha256-KFYLacBVZXVnQAbd6lMzmCDtx4YclKDa60aZBgfwBAs=",
+    "hash": "sha256-kPCweS3+/+hGdHmN1rlD0iqNEsmdldCKkOjO/B208IU=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.js"
@@ -15,7 +15,7 @@ export const config = /*json-start*/{
     "wasmNative": [
       {
         "name": "dotnet.native.wasm",
-        "hash": "sha256-Ys6qcFjBzvqb+QQlxEWn3GCQf+Sfyovz7Bq209eOja4="
+        "hash": "sha256-gqsPl+cl3AN0UGqGNQ3Uar03BUncz173bLuRYvdd65w="
       }
     ],
     "icu": [
@@ -76,12 +76,12 @@ export const config = /*json-start*/{
       {
         "virtualPath": "OrbinautFrameworkG.wasm",
         "name": "OrbinautFrameworkG.wasm",
-        "hash": "sha256-+Yp3u1AnLMk7lNlQegkr3UJK4qaHdqj6ysKrDlV1olo="
+        "hash": "sha256-ELglcvUvhXXdxI3v4tLxeeCAJGXfZMuCkrLpp+v3TN0="
       },
       {
         "virtualPath": "OrbinautFrameworkG.web.wasm",
         "name": "OrbinautFrameworkG.web.wasm",
-        "hash": "sha256-ZCtiYo1by59p1S4Cf2ekXAEWERVD+iK9Z41y5p5wAaU="
+        "hash": "sha256-L5Xik6xkH3a7YyvmY4ZOsest3rwNzhD3fyh1uV+Od64="
       },
       {
         "virtualPath": "System.Collections.Concurrent.wasm",
@@ -303,7 +303,7 @@ export const config = /*json-start*/{
         {
           "virtualPath": "OrbinautFrameworkG.resources.wasm",
           "name": "OrbinautFrameworkG.resources.wasm",
-          "hash": "sha256-G918WqiIZS3nhrWPzqfpo0DShBjNQrf/CMukg1wLp3Q="
+          "hash": "sha256-/6LGBJR2ztMK3kY5tcQQmGL4jqGoQlb4/2/4Kgpy+D8="
         }
       ],
       "es": [
